@@ -1,0 +1,11 @@
+[files]
+extend-exclude = [
+    ".git/",
+]
+ignore-hidden = false
+
+[default]
+extend-ignore-re = [
+    "\\bcase [0-9A-Z_a-z]+ += .+;",
+    "\\bself::[0-9A-Z_a-z]+ +=> .+,",
+]

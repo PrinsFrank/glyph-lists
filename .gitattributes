@@ -8,5 +8,6 @@
 /.gitattributes     export-ignore
 /.gitignore         export-ignore
 /.php-cs-fixer.php  export-ignore
+/.typos.toml        export-ignore
 /phpstan.neon       export-ignore
 /phpunit.xml.dist   export-ignore

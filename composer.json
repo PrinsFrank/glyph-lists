@@ -8,7 +8,15 @@
             "PrinsFrank\\GlyphLists\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "PrinsFrank\\GlyphLists\\Tests\\": "tests/"
+        }
+    },
     "require": {
         "php": "^8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.3"
     }
 }

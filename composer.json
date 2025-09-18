@@ -1,0 +1,14 @@
+{
+    "name": "prinsfrank/glyph-lists",
+    "description": "Pre-parsed glyph lists as enums",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PrinsFrank\\GlyphLists\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    }
+}

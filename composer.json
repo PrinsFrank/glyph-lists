@@ -20,7 +20,7 @@
         "friendsofphp/php-cs-fixer": "^3.87",
         "phpstan/phpstan": "^2.1",
         "phpstan/phpstan-strict-rules": "^2.0",
-        "phpunit/phpunit": "^12.3"
+        "phpunit/phpunit": "^11.5"
     },
     "scripts": {
         "cs": "php-cs-fixer fix --allow-risky=yes --dry-run",
